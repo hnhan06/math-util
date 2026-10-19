@@ -1,4 +1,4 @@
-[![Math Utility Project (CI included) | © 2026 by hnhan](https://github.com/hnhan06/math-util/actions/workflows/ci.yml/badge.svg)(https://github.com/hnhan06/math-util/actions/workflows/ci.yml)
+[![Math Utility Project (CI included) | © 2026 by hnhan](https://github.com/hnhan06/math-util/actions/workflows/ci.yml/badge.svg)](https://github.com/hnhan06/math-util/actions/workflows/ci.yml)
 
 # Welcome to Math Utility
 
